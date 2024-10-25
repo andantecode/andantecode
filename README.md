@@ -9,11 +9,10 @@
 </div>
 <br>
 
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=andantecode&theme=cobalt"/>
 </div>
-
-
 
 
 
@@ -49,13 +48,14 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://andantecode.github.io/about/">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <a>
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   </a>
-  <a href="mailto:roundayy2@gmail.com">
+  <a>
     <img
       src="https://img.shields.io/badge/roundayy2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+
 </div>
 
 
