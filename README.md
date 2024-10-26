@@ -16,48 +16,6 @@
 
 
 
-<h3 align="center">🎆 Tech Stack 🎆</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-</div>
-
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a>
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
-  </a>
-  <a>
-    <img
-      src="https://img.shields.io/badge/roundayy2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-
-</div>
-
 
 <!--
 **andantecode/andantecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
